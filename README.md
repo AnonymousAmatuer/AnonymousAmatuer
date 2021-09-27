@@ -7,4 +7,10 @@
 - C++
 - Powershell
 - html (No that is not a programming language, Web designing tool!)
+   <h2> Learning </h2>
+   - Java 
+   - JavaScript
+   - React library
+   - CSS
+   - Visual Basic
  <p> I also edit in wikipedia articles and am a member of chess.com </p>
