@@ -7,3 +7,4 @@
 - C++
 - Powershell
 - html (No that is not a programming language, Web designing tool!)
+ <p> I also edit in wikipedia articles and am a member of chess.com </p>
