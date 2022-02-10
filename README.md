@@ -8,6 +8,9 @@
 - Powershell
 - html (No that is not a programming language, Web designing tool!)
 - style (drum rythm) programming and piano on arranger keyboards 
+- MySQL Database
+- Oracle Database
+- Oracle Apex SQL
    <h2> Learning </h2>
 - Java 
 - JavaScript
