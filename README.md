@@ -14,9 +14,6 @@
 - Python (Other modules like tensorflow!)
 - html/css
 - JavaScript
-- Visual Basic
-- C++
- <p> I also edit in wikipedia articles and am a member of chess.com </p>
  yeah and also, if you can help me getta job even tho i'm still at school, i would appreciate it-
  
  # <b>A LOT</b>
